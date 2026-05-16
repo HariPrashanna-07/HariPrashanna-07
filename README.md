@@ -102,8 +102,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINK
-- 🌍 Portfolio: YOUR_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/hari-prashanna-v-725790333/
+- 🌍 Portfolio: https://portfoliohp07.netlify.app/
 
 ---
 
