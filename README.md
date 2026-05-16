@@ -66,22 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
-
----
-
 ## 🧲 What Makes Me Different
 
 - ⚡ I build **real-world systems**, not just tutorials
